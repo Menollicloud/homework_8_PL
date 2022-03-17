@@ -1,0 +1,67 @@
+* {
+    box-sizing: border-box;
+}
+
+.green {
+    background: linear-gradient(0deg, #E0E7CE, #E0E7CE);
+    width: 1060px;
+    margin-left: 53px;
+    margin-right: 52px;
+    padding: 17px 23px 18px 19px;
+}
+
+.container-top {
+    margin-top: 40px;
+    margin-bottom: 30px;
+}
+
+.card {
+    background-color: #F09B9B;
+    width: 189px;
+    height: 156px;
+}
+
+.left {
+    float: left;
+}
+
+.right {
+    float: right;
+}
+
+.clearfix {
+    clear: both;
+}
+
+.container-main {
+    margin-bottom: 30px;
+}
+
+.distance {
+    margin-right: 10px;
+}
+
+.middle {
+    /* width: 393px;
+    margin: 0 auto; */
+    margin-left: 322px;
+    margin-right: 303px;
+}
+
+.half-card {
+    background-color: #F09B9B;
+    width: 189px;
+    height: 70px;
+}
+
+.bottom {
+    margin-bottom: 16px;
+}
+
+.last {
+    margin-right: 15px;
+}
+
+.container-last {
+    margin-bottom: 42px;
+}
